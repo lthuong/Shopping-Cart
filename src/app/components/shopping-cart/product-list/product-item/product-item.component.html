@@ -1,14 +1,14 @@
 <div class="card shadow-sm">
-      <img class="bd-placeholder-img card-img-top" width="100%" height="225" src="https://gamingonair.de/wp-content/uploads/2021/03/21-Styles-My-Hero-Academia-Anime-Figure-All-Might-Azawa-Shouta-Dabi-Shigaraki-Tomura-Boku-no-3.jpg"/>
+      <img class="bd-placeholder-img card-img-top" width="100%" height="225" [src]="productItem.imageUrl"/>
 
       <div class="card-body">
           <p class="card-text">
-              <strong>{{ 250 | currency: 'EUR'}}</strong>
+              <strong>{{ productItem.price | currency: 'EUR'}}</strong>
           </p>
-        <p class="card-text">Anime figure</p>
+        <p class="card-text">{{ productItem.description }}</p>
         <div class="d-flex justify-content-between align-items-center">
           <div class="btn-group">
-            <button type="button" class="btn btn-sm btn-primary"><strong>Add to Cart</strong></button>
+            <button type="button" class="btn btn-sm btn-primary" (click)="handleAddToCart()"><strong>Add to Cart</strong></button>
             <button type="button" class="btn btn-sm btn-outline-secondary">View Details</button>
           </div>
         </div>
