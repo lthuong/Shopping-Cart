@@ -20,3 +20,8 @@
     border-bottom-left-radius: 0;
     border-bottom-right-radius: 0;
 }
+
+.fa-heart {
+    color: pink;
+    cursor: pointer;
+}
