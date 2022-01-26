@@ -34,7 +34,6 @@ export class ProductListComponent implements OnInit {
 
   loadWishList() {
     this.wishlistService.getWishlist().subscribe(productIds => {
-      console.log(productIds);
       this.wishlist = productIds;
     })
   }
