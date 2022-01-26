@@ -1,6 +1,8 @@
 # ShoppingCart
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.1.
+This project is a simple Shopping-Website with some basic funtionalities, that you expect from an online shopping platform (not really close though)
+<br /> This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.1  
+
 
 ## Development server
 
