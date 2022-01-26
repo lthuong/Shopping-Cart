@@ -1,0 +1,144 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Ipad 1",
+      "description": "IPad-Benutzer mit Adleraugen werden feststellen, dass die Bildschirmgröße von 9,7 Zoll auf 10,2 Zoll steigt. Aber wie viel Unterschied macht das und wenn Sie bereits ein iPad besitzen, lohnt sich ein Upgrade? Wir haben das neue iPad der Einstiegsklasse seit dem Start verwendet, um dies herauszufinden.",
+      "imageUrl": "https://cdn.pocket-lint.com/r/s/1200x/assets/images/149321-tablets-review-review-apple-ipad-102-inch-initial-review-tried-and-trusted-goes-bigger-image1-npbhfzogfj.jpg",
+      "price": 379
+    },
+    {
+      "id": 2,
+      "name": "Apple Watch",
+      "description": "Ein halber Zoll hier und da, das Diagonalmaß des älteren iPad, die aktuelle Standardeinstellung und die neueste Air sind nicht dramatisch - aber wirkungsvoller als es liest",
+      "imageUrl": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/42-alu-space-sport-black-nc-1up?wid=1673&hei=1353&fmt=jpeg&qlt=95&.v=1594318651000",
+      "price": 300
+    },
+    {
+      "id": 3,
+      "name": "Airport",
+      "description": "Es ist erwähnenswert, dass der Air erheblich mehr kostet, da er mit einem etwas größeren Bildschirm sowie einem schnelleren Prozessor und mehr Speicherplatz ausgestattet ist. Im Vergleich dazu befindet sich das iPad mini ganz unten im Stapel, da es weniger leistungsfähig ist.",
+      "imageUrl": "https://chip-toplists-thumbor-prd.s3.amazonaws.com/product_images/877260.jpg",
+      "price": 309
+    },
+    {
+      "id": 4,
+      "name": "Iphone",
+      "description": "Zusammenfassend lässt sich sagen, dass das iPad 2019 am besten als Einstiegsmodell angesehen werden kann.",
+      "imageUrl": "https://assets.swappie.com/iPhone-X-64GB-Silver-1-1-1-1.png",
+      "price": 870
+    },
+    {
+      "id": 5,
+      "name": "IMac",
+      "description": "Das iPad-Design ist eine Ikone, daher hat sich das Design trotz der erweiterten Bildschirmfläche nicht drastisch geändert",
+      "imageUrl": "https://www.maclife.de/media/maclife/styles/tec_frontend_fullscreen/public/images/editors/2019_14/image-113377--4490486.jpg?itok=lGafda7b",
+      "price": 1700
+    }
+  ],
+  "wishlist": [
+    {
+      "id": 1
+    }
+  ],
+  "cart": [
+    {
+      "product": {
+        "id": 1,
+        "name": "Ipad 1",
+        "description": "IPad-Benutzer mit Adleraugen werden feststellen, dass die Bildschirmgröße von 9,7 Zoll auf 10,2 Zoll steigt. Aber wie viel Unterschied macht das und wenn Sie bereits ein iPad besitzen, lohnt sich ein Upgrade? Wir haben das neue iPad der Einstiegsklasse seit dem Start verwendet, um dies herauszufinden.",
+        "imageUrl": "https://cdn.pocket-lint.com/r/s/1200x/assets/images/149321-tablets-review-review-apple-ipad-102-inch-initial-review-tried-and-trusted-goes-bigger-image1-npbhfzogfj.jpg",
+        "price": 379
+      },
+      "id": 1
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Airport",
+        "description": "Es ist erwähnenswert, dass der Air erheblich mehr kostet, da er mit einem etwas größeren Bildschirm sowie einem schnelleren Prozessor und mehr Speicherplatz ausgestattet ist. Im Vergleich dazu befindet sich das iPad mini ganz unten im Stapel, da es weniger leistungsfähig ist.",
+        "imageUrl": "https://chip-toplists-thumbor-prd.s3.amazonaws.com/product_images/877260.jpg",
+        "price": 309
+      },
+      "id": 2
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Airport",
+        "description": "Es ist erwähnenswert, dass der Air erheblich mehr kostet, da er mit einem etwas größeren Bildschirm sowie einem schnelleren Prozessor und mehr Speicherplatz ausgestattet ist. Im Vergleich dazu befindet sich das iPad mini ganz unten im Stapel, da es weniger leistungsfähig ist.",
+        "imageUrl": "https://chip-toplists-thumbor-prd.s3.amazonaws.com/product_images/877260.jpg",
+        "price": 309
+      },
+      "id": 3
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Airport",
+        "description": "Es ist erwähnenswert, dass der Air erheblich mehr kostet, da er mit einem etwas größeren Bildschirm sowie einem schnelleren Prozessor und mehr Speicherplatz ausgestattet ist. Im Vergleich dazu befindet sich das iPad mini ganz unten im Stapel, da es weniger leistungsfähig ist.",
+        "imageUrl": "https://chip-toplists-thumbor-prd.s3.amazonaws.com/product_images/877260.jpg",
+        "price": 309
+      },
+      "id": 4
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Apple Watch",
+        "description": "Ein halber Zoll hier und da, das Diagonalmaß des älteren iPad, die aktuelle Standardeinstellung und die neueste Air sind nicht dramatisch - aber wirkungsvoller als es liest",
+        "imageUrl": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/42-alu-space-sport-black-nc-1up?wid=1673&hei=1353&fmt=jpeg&qlt=95&.v=1594318651000",
+        "price": 300
+      },
+      "id": 5
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Airport",
+        "description": "Es ist erwähnenswert, dass der Air erheblich mehr kostet, da er mit einem etwas größeren Bildschirm sowie einem schnelleren Prozessor und mehr Speicherplatz ausgestattet ist. Im Vergleich dazu befindet sich das iPad mini ganz unten im Stapel, da es weniger leistungsfähig ist.",
+        "imageUrl": "https://chip-toplists-thumbor-prd.s3.amazonaws.com/product_images/877260.jpg",
+        "price": 309
+      },
+      "id": 6
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Airport",
+        "description": "Es ist erwähnenswert, dass der Air erheblich mehr kostet, da er mit einem etwas größeren Bildschirm sowie einem schnelleren Prozessor und mehr Speicherplatz ausgestattet ist. Im Vergleich dazu befindet sich das iPad mini ganz unten im Stapel, da es weniger leistungsfähig ist.",
+        "imageUrl": "https://chip-toplists-thumbor-prd.s3.amazonaws.com/product_images/877260.jpg",
+        "price": 309
+      },
+      "id": 7
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Apple Watch",
+        "description": "Ein halber Zoll hier und da, das Diagonalmaß des älteren iPad, die aktuelle Standardeinstellung und die neueste Air sind nicht dramatisch - aber wirkungsvoller als es liest",
+        "imageUrl": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/42-alu-space-sport-black-nc-1up?wid=1673&hei=1353&fmt=jpeg&qlt=95&.v=1594318651000",
+        "price": 300
+      },
+      "id": 8
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "todoItems": []
+}
