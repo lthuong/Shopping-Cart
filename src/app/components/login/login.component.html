@@ -1,4 +1,67 @@
-<p>login works!</p>
-<p>
-    <a [routerLink]="['/register']">Register</a>
-</p>
+<div class="row">
+  <div class="col-md-4 offset-md-4">
+    <div class="guest-form-card">
+      <div class="card-header text-center">
+        <h2>{{ "Login" | uppercase }}</h2>
+      </div>
+      <div class="card-body">
+        <form #loginForm="ngForm" (ngSubmit)="login(loginForm)">
+          <div class="form-group">
+            <label for="username">Username</label>
+            <input
+              type="text"
+              class="form-control"
+              name="username"
+              #username="ngModel"
+              [(ngModel)]="model.username"
+              required
+              [ngClass]="{
+                'is-invalid':
+                  username.invalid && loginForm.submitted ? true : false
+              }"
+            />
+            <span
+              *ngIf="username.invalid && loginForm.submitted"
+              class="invalid-feedback"
+              >Please enter the user name !!!</span
+            >
+          </div>
+
+          <div class="form-group">
+            <label for="password">Password</label>
+            <input
+              type="password"
+              class="form-control"
+              name="password"
+              #password="ngModel"
+              [(ngModel)]="model.password"
+              required
+              [ngClass]="{
+                'is-invalid':
+                  password.invalid && loginForm.submitted ? true : false
+              }"
+            />
+
+            <span
+              *ngIf="password.invalid && loginForm.submitted"
+              class="invalid-feedback"
+              >Please enter the password !!!</span
+            >
+          </div>
+
+          <div class="form-group">
+            <input
+              type="checkbox"
+              name="remember"
+              class="form-control"
+              [(ngModel)]="model.remember"
+            />
+            <label class="ml-1" for="remember">Remember Me</label>
+          </div>
+
+          <button class="btn btn-primary btn-block" type="submit">Login</button>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>

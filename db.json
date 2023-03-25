@@ -36,11 +36,7 @@
       "price": 1700
     }
   ],
-  "wishlist": [
-    {
-      "id": 1
-    }
-  ],
+  "wishlist": [],
   "cart": [
     {
       "product": {
@@ -121,6 +117,56 @@
         "price": 300
       },
       "id": 8
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Ipad 1",
+        "description": "IPad-Benutzer mit Adleraugen werden feststellen, dass die Bildschirmgröße von 9,7 Zoll auf 10,2 Zoll steigt. Aber wie viel Unterschied macht das und wenn Sie bereits ein iPad besitzen, lohnt sich ein Upgrade? Wir haben das neue iPad der Einstiegsklasse seit dem Start verwendet, um dies herauszufinden.",
+        "imageUrl": "https://cdn.pocket-lint.com/r/s/1200x/assets/images/149321-tablets-review-review-apple-ipad-102-inch-initial-review-tried-and-trusted-goes-bigger-image1-npbhfzogfj.jpg",
+        "price": 379
+      },
+      "id": 9
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Apple Watch",
+        "description": "Ein halber Zoll hier und da, das Diagonalmaß des älteren iPad, die aktuelle Standardeinstellung und die neueste Air sind nicht dramatisch - aber wirkungsvoller als es liest",
+        "imageUrl": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/42-alu-space-sport-black-nc-1up?wid=1673&hei=1353&fmt=jpeg&qlt=95&.v=1594318651000",
+        "price": 300
+      },
+      "id": 10
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Airport",
+        "description": "Es ist erwähnenswert, dass der Air erheblich mehr kostet, da er mit einem etwas größeren Bildschirm sowie einem schnelleren Prozessor und mehr Speicherplatz ausgestattet ist. Im Vergleich dazu befindet sich das iPad mini ganz unten im Stapel, da es weniger leistungsfähig ist.",
+        "imageUrl": "https://chip-toplists-thumbor-prd.s3.amazonaws.com/product_images/877260.jpg",
+        "price": 309
+      },
+      "id": 11
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Airport",
+        "description": "Es ist erwähnenswert, dass der Air erheblich mehr kostet, da er mit einem etwas größeren Bildschirm sowie einem schnelleren Prozessor und mehr Speicherplatz ausgestattet ist. Im Vergleich dazu befindet sich das iPad mini ganz unten im Stapel, da es weniger leistungsfähig ist.",
+        "imageUrl": "https://chip-toplists-thumbor-prd.s3.amazonaws.com/product_images/877260.jpg",
+        "price": 309
+      },
+      "id": 12
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Airport",
+        "description": "Es ist erwähnenswert, dass der Air erheblich mehr kostet, da er mit einem etwas größeren Bildschirm sowie einem schnelleren Prozessor und mehr Speicherplatz ausgestattet ist. Im Vergleich dazu befindet sich das iPad mini ganz unten im Stapel, da es weniger leistungsfähig ist.",
+        "imageUrl": "https://chip-toplists-thumbor-prd.s3.amazonaws.com/product_images/877260.jpg",
+        "price": 309
+      },
+      "id": 13
     }
   ],
   "posts": [
